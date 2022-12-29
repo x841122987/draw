@@ -1,9 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T06:52:51.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="qOUF4RsoWqXXJTYReDCv" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T07:01:24.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="LyEJ4XfOnu_u5RUUG4h9" type="github">
   <diagram id="ytJ8lXgt14j2ddaneSC4" name="第 1 页">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tu7SV1_enYNrRqPCFXD3-1" target="tu7SV1_enYNrRqPCFXD3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-1" value="hdp_lbg_huangye_ods.ods_lbglog_tb_app_action_log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tu7SV1_enYNrRqPCFXD3-3" target="tu7SV1_enYNrRqPCFXD3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-3" value="hdp_lbg_data_mart.dim_android_mapping_da_increment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tu7SV1_enYNrRqPCFXD3-4" target="tu7SV1_enYNrRqPCFXD3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-4" value="hdp_ubu_wuxian_defaultdb.tb_app_action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="290" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tu7SV1_enYNrRqPCFXD3-7" value="其他下游（85）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
